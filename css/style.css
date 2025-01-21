@@ -1,0 +1,199 @@
+.header {
+    background-color: #2C2C2C;
+    height: 120px;
+}
+
+.container_header {
+    display: flex;
+    margin: 0 50px;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.main {
+}
+.container_main_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main_img {
+    width: 632px;
+    height: 574px;
+}
+.main_p {
+    color: rgb(228, 228, 228);
+    font-family: Holy Union;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 86px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.title {
+    color: rgb(255, 255, 255);
+    font-family: Itim;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.title2 {
+    color: rgb(228, 228, 228);
+    font-family: Holy Union;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 100%;
+    margin-top: 0;
+}
+.main_section1 {
+    background: rgb(44, 44, 44);
+    height: 707px;
+}
+.main_section2 {
+    background: rgb(62, 62, 62);
+}
+.skillname {
+    color: rgb(228, 228, 228);
+    font-family: Itim;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.skills_title {
+    color: rgb(228, 228, 228);
+    font-family: Holy Union;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.progress_bg {
+    width: 356px;
+    height: 10px;
+    background: rgb(44, 44, 44);
+    border-radius: 10px;
+}
+.python_progress {
+    background: rgb(0, 196, 240);
+    height: 10px;
+    width: 75%;
+}
+.css_progress {
+    background: rgb(0, 196, 240);
+    height: 10px;
+    width: 10%;
+}
+.figma_progress {
+    background: rgb(0, 196, 240);
+    height: 10px;
+    width: 45%;
+}
+.html_progress {
+    background: rgb(0, 196, 240);
+    height: 10px;
+    width: 10%;
+}
+.python_progress,
+.css_progress,
+.figma_progress,
+.html_progress {
+    height: 10px;
+    background-color: #4CAF50;
+    transition: width 0.5s ease-in-out;
+    border-radius: 10px;
+}
+.skills_list {
+    list-style: none;
+}
+.content2 {
+    display: flex;
+    align-items: center;
+}
+.img2 {
+    width: 632px;
+    height: 575.47px;
+}
+.vk {
+    margin-left: 20px;
+}
+.video {
+    width: 1009.06px;
+    height: 561.25px;
+    border: 20px solid black;
+    border-radius: 30px;
+}
+.main_section3 {
+    background: rgb(44, 44, 44);
+}
+.title3 {
+    color: rgb(228, 228, 228);
+    font-family: Holy Union;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 100%;
+    margin-top: 0;
+}
+.container_main_section3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.gallery_item {
+    width: 400px;
+    height: 400px;
+    margin: 35px;
+}
+.gallery_img {
+    width: 100%;
+}
+.gallery_list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin-bottom: 0px;
+}
+.gallery {
+    background-color: rgb(62, 62, 62);
+}
+.gallery_title {
+    color: rgb(228, 228, 228);
+    font-family: Holy Union;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 100%;
+    margin-top: 0;
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    height: 70px;
+    width: 100%;
+    background: rgb(44, 44, 44);
+}
+.foot_label {
+    color: cadetblue;
+    margin-top: 10px;
+}
+.foot_tg {
+    margin-top: 10px;
+}
+.foot_vk {
+    margin-top: 10px;
+}
