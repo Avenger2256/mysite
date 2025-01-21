@@ -1,1 +1,1 @@
-<img alt="Size" src="https://img.shields.io/github/repo-size/Avenger2256/mysite?style=for-the-badge">
+<img alt="Size" src=" https://img.shields.io/badge/my%20first%20site-8A2BE2">
