@@ -1,1 +1,1 @@
-<img alt="Size" src="https://img.shields.io/badge/my%20first%20site-8A2BE2">
+<img alt="Language" src="https://img.shields.io/github/languages/top/Avenger2256/mysite?style=for-the-badge">
