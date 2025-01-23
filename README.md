@@ -4,4 +4,4 @@
   <img alt="GitHub last commit" src="https://shields.mitmproxy.org/github/last-commit/Avenger2256/mysite?style=for-the-badge">
   <img alt="GitHub Created At" src="https://shields.mitmproxy.org/github/created-at/Avenger2256/mysite?style=for-the-badge">
 </div>
-<a href="https://avenger2256.github.io/mysite/">GitHub Sites</a>
+<a href="https://avenger2256.github.io/mysite/" align="center">GitHub Sites</a>
